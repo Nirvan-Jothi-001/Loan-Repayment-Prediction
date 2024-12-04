@@ -13,7 +13,7 @@ better data-driven decisions and avoiding potential financial risks.
 ## Key Files
 - **Capstone Project PDF**: https://github.com/Nirvan-Jothi-001/Loan-Repayment-Prediction/blob/main/Capstone_Project_Finance_Nirvan_%20Python.pdf
 - **PowerPoint Slides PDF**: https://github.com/Nirvan-Jothi-001/Loan-Repayment-Prediction/blob/main/Capstone_Project_Finance_Nirvan_Slides.pdf
-- **Code**: Python scripts and Jupyter notebooks can be found in the `code/` folder.
+- **Code**: https://github.com/Nirvan-Jothi-001/Loan-Repayment-Prediction/blob/main/Capstone_Project_Finance_Nirvan.ipynb
 
 ## Tools and Libraries
 This project uses the following tools and libraries:
