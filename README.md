@@ -19,6 +19,7 @@ better data-driven decisions and avoiding potential financial risks.
 This project uses the following tools and libraries:
 - **Python**
 - **scikit-learn** (for machine learning)
+- **NumPy** (for numerical computations and multi-dimensional arrays)
 - **pandas** (for data manipulation)
 - **matplotlib** and **seaborn** (for data visualization)
 
